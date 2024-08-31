@@ -1,6 +1,6 @@
 # Login UI
 
-This is a **beautiful and fun** login user interface project built using [your technologies, e.g., HTML, CSS, JavaScript].
+This is a **beautiful and fun** login user interface project built using [HTML, CSS].
 
 ## Features
 
